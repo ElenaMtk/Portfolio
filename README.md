@@ -1,4 +1,6 @@
-# Portfolio
+<center><h1>Yandex_Praktikum_DA_projects</h1></center>
+<a href="https://praktikum.yandex.ru/"><img width=60% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
+<p align=center>
 
 Здесь собраны некоторые реализованные проекты
 
