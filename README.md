@@ -4,7 +4,7 @@
 <p align=center>
 В данном репозитории собраны некоторые из проектов, выполненных в рамках обучения на курсе <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a><br>
 
-<p align=center><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_certificate_en.pdf"><b>Диплом о профессиональной переподготовке по программе "Аналитика данных"</b> :mortar_board: </a><br>
+<p align=center><a href="Диплом о прохождении курса.pdf"><b>Диплом о профессиональной переподготовке по программе "Аналитика данных"</b> :mortar_board: </a><br>
 </p><br>
 
 
