@@ -1,8 +1,12 @@
-<center><h1>Yandex_Praktikum_DA_projects</h1></center>
-<a href="https://praktikum.yandex.ru/"><img width=60% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
+<p align=center><h1>Yandex_Praktikum_DA_projects</h1></center>
 <p align=center>
+<a href="https://praktikum.yandex.ru/"><img width=65% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
+<p align=center>
+В данном репозитории собраны некоторые из проектов, выполненных в рамках обучения на курсе <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a><br>
 
-Здесь собраны некоторые реализованные проекты
+<p align=center><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_certificate_en.pdf"><b>Диплом о профессиональной переподготовке по программе "Аналитика данных"</b> :mortar_board: </a><br>
+</p><br>
+
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
